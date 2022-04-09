@@ -1,7 +1,7 @@
 {
   "name": "gas-spreadsheet-mail",
-  "version": "0.0.3",
-  "description": "Starter kit to send emails from spreadsheet.",
+  "version": "0.0.1",
+  "description": "Starter kit for Google Apps Script.",
   "author": "Kazuki Yonemoto (https://dev.to/tim_yone)",
   "license": "MIT",
   "dependencies": {},
