@@ -4,10 +4,10 @@ gas-webpack-starter is a starter kit for Google Apps Script.
 
 ## Status
 
-[![Release (latest by date)](https://img.shields.io/github/v/release/Kazuki-tam/gas-spreadsheet-mail)](https://github.com/Kazuki-tam/gas-spreadsheet-mail/releases/tag/v0.0.1)
-[![Issues](https://img.shields.io/github/issues/Kazuki-tam/gas-spreadsheet-mail)](https://github.com/Kazuki-tam/gas-spreadsheet-mail/issues)
+[![Release (latest by date)](https://img.shields.io/github/v/release/Kazuki-tam/gas-webpack-starter)](https://github.com/Kazuki-tam/gas-webpack-starter/releases/tag/v0.0.1)
+[![Issues](https://img.shields.io/github/issues/Kazuki-tam/gas-webpack-starter)](https://github.com/Kazuki-tam/gas-webpack-starter/issues)
 ![Maintenance](https://img.shields.io/maintenance/yes/2022)
-![Release date](https://img.shields.io/github/release-date/Kazuki-tam/gas-spreadsheet-mail)
+![Release date](https://img.shields.io/github/release-date/Kazuki-tam/gas-webpack-starter)
 
 ## Features
 - Just deploy this project code without development
