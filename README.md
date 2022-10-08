@@ -33,24 +33,18 @@ gas-webpack-starter is a starter kit for Google Apps Script.
 - [Node.js v16+ (v16.13.0)](https://nodejs.org/en/)
 - [Clasp](https://github.com/google/clasp)
 
-Install [Clasp](https://github.com/google/clasp) at the first if you haven't done it yet.
-
-```shell
-npm install -g @google/clasp
-```
-
-### Login google account
-
-```shell
-npx clasp login
-```
-
 ## How to use
 
 Clone this repository and install dependencies.
 
 ```shell
 yarn install
+```
+
+### Login google account
+
+```shell
+yarn clasp login
 ```
 
 ### Connect to your exiting project
