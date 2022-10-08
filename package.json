@@ -1,6 +1,6 @@
 {
   "name": "gas-spreadsheet-mail",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "Starter kit for Google Apps Script.",
   "author": "Kazuki Yonemoto (https://dev.to/tim_yone)",
   "license": "MIT",
@@ -57,5 +57,8 @@
   },
   "resolutions": {
     "glob-parent": "^5.1.2"
+  },
+  "dependencies": {
+    "@google/clasp": "^2.4.2"
   }
 }
